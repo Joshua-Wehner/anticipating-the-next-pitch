@@ -1,0 +1,7 @@
+joblib @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_8ff7uji0v2/croot/joblib_1718217225309/work
+matplotlib==3.10.0
+numpy==2.0.1
+pandas==2.2.3
+pybaseball==2.2.7
+scikit-learn==1.5.2
+seaborn==0.13.2
