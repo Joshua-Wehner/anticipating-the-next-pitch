@@ -1,4 +1,5 @@
 # anticipating-the-next-pitch
+Co-authored-by: Jordan Wehner (https://github.com/jordan-wehner)
 
 ## Overview
 This project provides a classification model approach to predicting the next pitch in a plate appearance during MLB games using only prior-pitch features.
